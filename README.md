@@ -1,0 +1,1 @@
+# appStickers-brasileirao2023
