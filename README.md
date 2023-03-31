@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/status-em%20desenvolvimento-blue)
+
 # appStickers-brasileirao2023
 
 ## API
